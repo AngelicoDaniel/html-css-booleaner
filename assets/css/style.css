@@ -63,6 +63,10 @@ ul{
   list-style-position: inside;
   
 }
+#interessi {
+    color: grey;
+    
+}
 .monitor {
   background-image: url('../img/monitor.jpg');
   background-size: auto;
