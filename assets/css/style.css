@@ -13,13 +13,18 @@ header{
        }
 header img {
      width: 20%;
-     margin-top: 30px;
+     padding-left: 50px;
+     text-align: center ;
      }
 main{
         width: 80%;
         margin: auto;
         padding: 20px 0px;
     }
+.tim {
+    
+    font-size: smaller
+}
 h1 {
     font-size: 70px;
     }
@@ -36,6 +41,9 @@ h1 {
 .highlighter{
         background-color: #f1f50b;
     } 
+table{
+    border-spacing: 0;
+}
 thead {
     background-color: blue;
     color: white;
@@ -53,7 +61,7 @@ footer{
 
 ul{
   list-style-position: inside;
-  text-align: center;
+  
 }
 .monitor {
   background-image: url('../img/monitor.jpg');
