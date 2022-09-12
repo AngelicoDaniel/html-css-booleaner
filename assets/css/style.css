@@ -12,14 +12,17 @@ header{
 header img {
      width: 20%;
      }
-main{
+body{
         width: 80%;
         margin: auto;
-        padding: 30px 10px;
+        padding: 20px 0px;
+
+        
       }
 h1 {
     font-size: 70px;
     }
-.crediti {
-       
- }
+
+.highlighter{
+        background-color: #F3F74C;
+    } 
