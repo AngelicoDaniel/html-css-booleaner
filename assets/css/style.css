@@ -53,6 +53,7 @@ footer{
 
 ul{
   list-style-position: inside;
+  text-align: center;
 }
 .monitor {
   background-image: url('../img/monitor.jpg');
