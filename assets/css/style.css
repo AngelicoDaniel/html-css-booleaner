@@ -20,7 +20,15 @@ main{
 h1 {
     font-size: 70px;
     }
-
+.crediti {
+    color: grey;
+    font-weight: bold;
+}
+#boolean {
+    color: #7AB7FF;
+    font-weight: bold;
+     
+}  
 
 .highlighter{
         background-color: #f1f50b;
