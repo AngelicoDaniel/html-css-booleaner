@@ -28,7 +28,10 @@ h1 {
 thead {
     background-color: blue;
     color: white;
-    font-weight: bold;
+}
+td{
+    width: 25%;
+    
 }
 footer{
     width: 80%;
@@ -43,6 +46,7 @@ footer{
   height: 220px;
   color: white;
   padding: 10px 10px;
+  font-weight: bold;
   
   }
 .graph {
@@ -52,4 +56,5 @@ footer{
     height: 220px;
     color: white;
     padding: 10px 10px;
+    font-weight: bold;
     }
