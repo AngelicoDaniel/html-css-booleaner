@@ -12,17 +12,19 @@ header{
 header img {
      width: 20%;
      }
-body{
+main{
         width: 80%;
         margin: auto;
         padding: 20px 0px;
-
-        
-      }
+    }
 h1 {
     font-size: 70px;
     }
 
 .highlighter{
-        background-color: #F3F74C;
+        background-color: #f1f50b;
     } 
+footer{
+    width: 80%;
+    margin: auto;
+} 
