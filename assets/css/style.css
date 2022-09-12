@@ -27,6 +27,7 @@ h1 {
 footer{
     width: 80%;
     margin: auto;
+    
 }
 
 .monitor {
@@ -35,8 +36,13 @@ footer{
   background-repeat: no-repeat;
   height: 400px;
   color: white;
-  padding: 15px 10px;
-  
-
-
-}
+  padding: 10px 10px;
+  }
+.graph {
+    background-image: url('../img/graph.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+    padding: 10px 10px;
+    }
