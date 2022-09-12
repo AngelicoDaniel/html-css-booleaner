@@ -29,10 +29,11 @@ thead {
     background-color: blue;
     color: white;
 }
-td{
-    width: 25%;
-    
+.colonna {
+    width: 50%;
+    background-color: #7AB7FF;
 }
+
 footer{
     width: 80%;
     margin: auto;
