@@ -21,9 +21,15 @@ h1 {
     font-size: 70px;
     }
 
+
 .highlighter{
         background-color: #f1f50b;
     } 
+thead {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
 footer{
     width: 80%;
     margin: auto;
@@ -34,15 +40,16 @@ footer{
   background-image: url('../img/monitor.jpg');
   background-size: auto;
   background-repeat: no-repeat;
-  height: 400px;
+  height: 220px;
   color: white;
   padding: 10px 10px;
+  
   }
 .graph {
     background-image: url('../img/graph.jpg');
     background-size: auto;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 220px;
     color: white;
     padding: 10px 10px;
     }
